@@ -2,7 +2,7 @@
 
 🚀 一个由 Qt 驱动的现代音视频处理软件，支持 **Windows / macOS / Linux**，集成了 **录制、推流、剪辑、压缩、滤镜、GIF 制作等**强大功能于一体，让你轻松玩转多媒体处理！
 
-![screenshot](assets/preview.png) <!-- 可放截图 -->
+![screenshot](preview/1.png) <!-- 可放截图 -->
 
 ---
 
@@ -26,7 +26,7 @@
 
 | 录制界面 🎥 | 推流设置 📡 | 剪辑编辑 ✂️ |
 |------------|-------------|-------------|
-| ![rec](assets/rec.png) | ![stream](assets/stream.png) | ![edit](assets/edit.png) |
+| ![rec](preview/2.png) | ![stream](assets/stream.png) | ![edit](assets/edit.png) |
 
 ---
 
